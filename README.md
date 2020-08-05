@@ -29,5 +29,7 @@ Pito is a api project based on laravel.
 => Location on app\Trait
 
 
-Generate token: Create mine own token to encode param on url and decode it.
+Generate token: 
+Create mine own token to encode param on url and decode it.
+
 => Location on app\model\generatetoken\requesttoken
